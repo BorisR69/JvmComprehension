@@ -1,0 +1,2 @@
+Загрузка класса JvmComprehension и системных классов в Metaspace;
+Создание в Stack фрейма для метода main;
